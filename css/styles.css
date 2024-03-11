@@ -168,7 +168,6 @@ a {
   }
 
   .mobile-social-links {
-    margin: 0 auto;
     max-width: 280px;
     display: flex;
     justify-content: space-between;
