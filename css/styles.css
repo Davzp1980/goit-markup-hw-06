@@ -74,13 +74,14 @@ a {
     display: none;
   }
 
-  .container {
+  .mobile-menu-container {
     position: relative;
     display: flex;
     flex-direction: column;
     height: 100%;
     padding: 72px 24px 40px 16px;
   }
+
   .mobile-menu-btn {
     background-color: transparent;
     border: none;
@@ -199,6 +200,7 @@ a {
 
 .page-header-container {
   display: flex;
+  flex-direction: row;
   justify-content: space-between;
   align-items: center;
   padding-top: 16px;
